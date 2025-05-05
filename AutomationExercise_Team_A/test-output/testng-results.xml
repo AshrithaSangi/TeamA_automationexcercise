@@ -1,0 +1,1089 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="26" passed="20" failed="5" skipped="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Closebrowser Successfully]]>
+    </line>
+    <line>
+      <![CDATA[checkout]]>
+    </line>
+    <line>
+      <![CDATA[Closebrowser Successfully]]>
+    </line>
+    <line>
+      <![CDATA[checkout]]>
+    </line>
+    <line>
+      <![CDATA[Closebrowser Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Closebrowser Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Closebrowser Successfully]]>
+    </line>
+    <line>
+      <![CDATA[verify products]]>
+    </line>
+    <line>
+      <![CDATA[Closebrowser Successfully]]>
+    </line>
+    <line>
+      <![CDATA[remove product]]>
+    </line>
+    <line>
+      <![CDATA[Closebrowser Successfully]]>
+    </line>
+    <line>
+      <![CDATA[viewcart]]>
+    </line>
+    <line>
+      <![CDATA[Closebrowser Successfully]]>
+    </line>
+    <line>
+      <![CDATA[login_with_invalid_credentials]]>
+    </line>
+    <line>
+      <![CDATA[Closebrowser Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Closebrowser Successfully]]>
+    </line>
+    <line>
+      <![CDATA[user is logged in with valid credentilas]]>
+    </line>
+    <line>
+      <![CDATA[Closebrowser Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Closebrowser Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Closebrowser Successfully]]>
+    </line>
+    <line>
+      <![CDATA[user  is logged out]]>
+    </line>
+    <line>
+      <![CDATA[Closebrowser Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Closebrowser Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Test Case 21: Add review on product]]>
+    </line>
+    <line>
+      <![CDATA[Closebrowser Successfully]]>
+    </line>
+    <line>
+      <![CDATA[viewcart]]>
+    </line>
+    <line>
+      <![CDATA[Closebrowser Successfully]]>
+    </line>
+    <line>
+      <![CDATA[user is registered]]>
+    </line>
+    <line>
+      <![CDATA[Closebrowser Successfully]]>
+    </line>
+    <line>
+      <![CDATA[testcase 23]]>
+    </line>
+    <line>
+      <![CDATA[Closebrowser Successfully]]>
+    </line>
+    <line>
+      <![CDATA[contact form is created]]>
+    </line>
+    <line>
+      <![CDATA[Closebrowser Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Closebrowser Successfully]]>
+    </line>
+    <line>
+      <![CDATA[contact form is created]]>
+    </line>
+    <line>
+      <![CDATA[Closebrowser Successfully]]>
+    </line>
+    <line>
+      <![CDATA[product is searched]]>
+    </line>
+    <line>
+      <![CDATA[Closebrowser Successfully]]>
+    </line>
+    <line>
+      <![CDATA[contact form is created]]>
+    </line>
+    <line>
+      <![CDATA[Closebrowser Successfully]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2025-05-05T15:04:52 IST" name="regression_cycle" finished-at="2025-05-05T15:19:21 IST" duration-ms="868109">
+    <groups>
+    </groups>
+    <test started-at="2025-05-05T15:04:52 IST" name="Test" finished-at="2025-05-05T15:19:21 IST" duration-ms="868109">
+      <class name="producttest.TestCase_07">
+        <test-method is-config="true" signature="browserSetup()[pri:0, instance:producttest.TestCase_07@28975c28]" started-at="2025-05-05T15:18:53 IST" name="browserSetup" finished-at="2025-05-05T15:18:57 IST" duration-ms="4298" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method signature="testcasepage()[pri:0, instance:producttest.TestCase_07@28975c28]" started-at="2025-05-05T15:18:57 IST" name="testcasepage" finished-at="2025-05-05T15:18:57 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[contact form is created]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcasepage -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:producttest.TestCase_07@28975c28]" started-at="2025-05-05T15:18:57 IST" name="closebrowser" finished-at="2025-05-05T15:18:57 IST" duration-ms="255" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Closebrowser Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- producttest.TestCase_07 -->
+      <class name="producttest.TestCase_06">
+        <test-method is-config="true" signature="browserSetup()[pri:0, instance:producttest.TestCase_06@343570b7]" started-at="2025-05-05T15:19:08 IST" name="browserSetup" finished-at="2025-05-05T15:19:13 IST" duration-ms="4623" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method signature="ContactUsForm()[pri:0, instance:producttest.TestCase_06@343570b7]" started-at="2025-05-05T15:19:13 IST" name="ContactUsForm" finished-at="2025-05-05T15:19:13 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[contact form is created]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ContactUsForm -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:producttest.TestCase_06@343570b7]" started-at="2025-05-05T15:19:13 IST" name="closebrowser" finished-at="2025-05-05T15:19:13 IST" duration-ms="197" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Closebrowser Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- producttest.TestCase_06 -->
+      <class name="producttest.TestCase_05">
+        <test-method is-config="true" signature="browserSetup()[pri:0, instance:producttest.TestCase_05@186f8716]" started-at="2025-05-05T15:13:09 IST" name="browserSetup" finished-at="2025-05-05T15:13:29 IST" duration-ms="20076" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method signature="Register_with_exist_email()[pri:0, instance:producttest.TestCase_05@186f8716]" started-at="2025-05-05T15:13:29 IST" name="Register_with_exist_email" finished-at="2025-05-05T15:13:29 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Register_with_exist_email -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:producttest.TestCase_05@186f8716]" started-at="2025-05-05T15:13:29 IST" name="closebrowser" finished-at="2025-05-05T15:13:29 IST" duration-ms="192" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Closebrowser Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- producttest.TestCase_05 -->
+      <class name="producttest.TestCase_26">
+        <test-method is-config="true" signature="browserSetup()[pri:0, instance:producttest.TestCase_26@45ca843]" started-at="2025-05-05T15:13:58 IST" name="browserSetup" finished-at="2025-05-05T15:14:14 IST" duration-ms="16156" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method signature="VerifyScrollUpwithoutArrowbuttonandScrollDownfunctionality()[pri:0, instance:producttest.TestCase_26@45ca843]" started-at="2025-05-05T15:14:14 IST" name="VerifyScrollUpwithoutArrowbuttonandScrollDownfunctionality" finished-at="2025-05-05T15:14:17 IST" duration-ms="2608" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyScrollUpwithoutArrowbuttonandScrollDownfunctionality -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:producttest.TestCase_26@45ca843]" started-at="2025-05-05T15:14:17 IST" name="closebrowser" finished-at="2025-05-05T15:14:17 IST" duration-ms="290" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Closebrowser Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- producttest.TestCase_26 -->
+      <class name="producttest.TestCase_04">
+        <test-method is-config="true" signature="browserSetup()[pri:0, instance:producttest.TestCase_04@1d8bd0de]" started-at="2025-05-05T15:13:29 IST" name="browserSetup" finished-at="2025-05-05T15:13:58 IST" duration-ms="28817" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method signature="logout()[pri:0, instance:producttest.TestCase_04@1d8bd0de]" started-at="2025-05-05T15:13:58 IST" name="logout" finished-at="2025-05-05T15:13:58 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[user  is logged out]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:producttest.TestCase_04@1d8bd0de]" started-at="2025-05-05T15:13:58 IST" name="closebrowser" finished-at="2025-05-05T15:13:58 IST" duration-ms="182" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Closebrowser Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- producttest.TestCase_04 -->
+      <class name="producttest.TestCase_25">
+        <test-method is-config="true" signature="browserSetup()[pri:0, instance:producttest.TestCase_25@50caa560]" started-at="2025-05-05T15:11:55 IST" name="browserSetup" finished-at="2025-05-05T15:12:25 IST" duration-ms="29652" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method signature="m1()[pri:0, instance:producttest.TestCase_25@50caa560]" started-at="2025-05-05T15:12:25 IST" name="m1" finished-at="2025-05-05T15:12:29 IST" duration-ms="4277" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:producttest.TestCase_25@50caa560]" started-at="2025-05-05T15:12:29 IST" name="closebrowser" finished-at="2025-05-05T15:12:29 IST" duration-ms="128" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Closebrowser Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- producttest.TestCase_25 -->
+      <class name="producttest.TestCase_03">
+        <test-method is-config="true" signature="browserSetup()[pri:0, instance:producttest.TestCase_03@568ff82]" started-at="2025-05-05T15:11:33 IST" name="browserSetup" finished-at="2025-05-05T15:11:55 IST" duration-ms="21873" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method signature="login_with_invalid_credentials()[pri:0, instance:producttest.TestCase_03@568ff82]" started-at="2025-05-05T15:11:55 IST" name="login_with_invalid_credentials" finished-at="2025-05-05T15:11:55 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[login_with_invalid_credentials]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login_with_invalid_credentials -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:producttest.TestCase_03@568ff82]" started-at="2025-05-05T15:11:55 IST" name="closebrowser" finished-at="2025-05-05T15:11:55 IST" duration-ms="187" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Closebrowser Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- producttest.TestCase_03 -->
+      <class name="producttest.TestCase_24">
+        <test-method is-config="true" signature="browserSetup()[pri:0, instance:producttest.TestCase_24@5ab9e72c]" started-at="2025-05-05T15:12:44 IST" name="browserSetup" finished-at="2025-05-05T15:12:58 IST" duration-ms="13780" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method signature="DownloadInvoiceafterpurchaseorder()[pri:0, instance:producttest.TestCase_24@5ab9e72c]" started-at="2025-05-05T15:12:58 IST" name="DownloadInvoiceafterpurchaseorder" finished-at="2025-05-05T15:13:08 IST" duration-ms="10813" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DownloadInvoiceafterpurchaseorder -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:producttest.TestCase_24@5ab9e72c]" started-at="2025-05-05T15:13:08 IST" name="closebrowser" finished-at="2025-05-05T15:13:09 IST" duration-ms="182" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Closebrowser Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- producttest.TestCase_24 -->
+      <class name="producttest.TestCase_02">
+        <test-method is-config="true" signature="browserSetup()[pri:0, instance:producttest.TestCase_02@2a266d09]" started-at="2025-05-05T15:12:29 IST" name="browserSetup" finished-at="2025-05-05T15:12:44 IST" duration-ms="14468" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method signature="login_with_valid_credentials()[pri:0, instance:producttest.TestCase_02@2a266d09]" started-at="2025-05-05T15:12:44 IST" name="login_with_valid_credentials" finished-at="2025-05-05T15:12:44 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[user is logged in with valid credentilas]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login_with_valid_credentials -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:producttest.TestCase_02@2a266d09]" started-at="2025-05-05T15:12:44 IST" name="closebrowser" finished-at="2025-05-05T15:12:44 IST" duration-ms="218" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Closebrowser Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- producttest.TestCase_02 -->
+      <class name="producttest.TestCase_23">
+        <test-method is-config="true" signature="browserSetup()[pri:0, instance:producttest.TestCase_23@574b560f]" started-at="2025-05-05T15:15:02 IST" name="browserSetup" finished-at="2025-05-05T15:15:14 IST" duration-ms="12816" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method signature="Verifyaddressdetailsincheckoutpage()[pri:0, instance:producttest.TestCase_23@574b560f]" started-at="2025-05-05T15:15:14 IST" name="Verifyaddressdetailsincheckoutpage" finished-at="2025-05-05T15:18:17 IST" duration-ms="182860" status="FAIL">
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[java.util.concurrent.TimeoutException
+Build info: version: '4.13.0', revision: 'ba948ece5b*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e594843923a6063134a4589a192c82c9, findElement {using=id, value=password}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.48, chrome: {chromedriverVersion: 136.0.7103.49 (031848bc6ad0..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54819}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54819/devtoo..., se:cdpVersion: 136.0.7103.48, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e594843923a6063134a4589a192c82c9]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: java.util.concurrent.TimeoutException
+Build info: version: '4.13.0', revision: 'ba948ece5b*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e594843923a6063134a4589a192c82c9, findElement {using=id, value=password}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.48, chrome: {chromedriverVersion: 136.0.7103.49 (031848bc6ad0..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54819}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54819/devtoo..., se:cdpVersion: 136.0.7103.48, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e594843923a6063134a4589a192c82c9
+at org.openqa.selenium.remote.http.netty.NettyHttpHandler.makeCall(NettyHttpHandler.java:65)
+at org.openqa.selenium.remote.http.AddSeleniumUserAgent.lambda$apply$0(AddSeleniumUserAgent.java:42)
+at org.openqa.selenium.remote.http.Filter.lambda$andFinally$1(Filter.java:55)
+at org.openqa.selenium.remote.http.netty.NettyHttpHandler.execute(NettyHttpHandler.java:48)
+at org.openqa.selenium.remote.http.netty.NettyClient.execute(NettyClient.java:96)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:188)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:196)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:171)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:602)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:66)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:359)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:353)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+at jdk.proxy2/jdk.proxy2.$Proxy16.sendKeys(Unknown Source)
+at producttest.TestCase_23.Verifyaddressdetailsincheckoutpage(TestCase_23.java:49)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+at org.testng.TestRunner.privateRun(TestRunner.java:741)
+at org.testng.TestRunner.run(TestRunner.java:616)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+Caused by: java.util.concurrent.TimeoutException
+at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:2004)
+at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2139)
+at org.asynchttpclient.netty.NettyResponseFuture.get(NettyResponseFuture.java:206)
+at org.openqa.selenium.remote.http.netty.NettyHttpHandler.makeCall(NettyHttpHandler.java:59)
+... 42 more
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+            <line>
+              <![CDATA[testcase 23]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Verifyaddressdetailsincheckoutpage -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:producttest.TestCase_23@574b560f]" started-at="2025-05-05T15:18:17 IST" name="closebrowser" finished-at="2025-05-05T15:18:42 IST" duration-ms="25023" status="FAIL">
+          <exception class="org.openqa.selenium.WebDriverException">
+            <message>
+              <![CDATA[Timed out waiting for driver server to stop.
+Build info: version: '4.13.0', revision: 'ba948ece5b*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e594843923a6063134a4589a192c82c9, quit {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.48, chrome: {chromedriverVersion: 136.0.7103.49 (031848bc6ad0..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54819}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54819/devtoo..., se:cdpVersion: 136.0.7103.48, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e594843923a6063134a4589a192c82c9]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.WebDriverException: Timed out waiting for driver server to stop.
+Build info: version: '4.13.0', revision: 'ba948ece5b*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e594843923a6063134a4589a192c82c9, quit {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.48, chrome: {chromedriverVersion: 136.0.7103.49 (031848bc6ad0..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54819}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54819/devtoo..., se:cdpVersion: 136.0.7103.48, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e594843923a6063134a4589a192c82c9
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:161)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:602)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:675)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:679)
+at org.openqa.selenium.remote.RemoteWebDriver.quit(RemoteWebDriver.java:437)
+at org.openqa.selenium.chromium.ChromiumDriver.quit(ChromiumDriver.java:351)
+at genericrepository.BasicConfiguration.closebrowser(BasicConfiguration.java:72)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333)
+at org.testng.internal.invokers.TestMethodWorker.invokeAfterClassConfigurations(TestMethodWorker.java:238)
+at org.testng.internal.invokers.TestMethodWorker.invokeAfterClassMethods(TestMethodWorker.java:223)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:137)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+at org.testng.TestRunner.privateRun(TestRunner.java:741)
+at org.testng.TestRunner.run(TestRunner.java:616)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+Caused by: java.util.concurrent.ExecutionException: org.openqa.selenium.TimeoutException: Process timed out after waiting for 20000 ms.
+Build info: version: '4.13.0', revision: 'ba948ece5b*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: driver.version: unknown
+at java.base/java.util.concurrent.CompletableFuture.wrapInExecutionException(CompletableFuture.java:345)
+at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:440)
+at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2140)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:157)
+... 31 more
+Caused by: org.openqa.selenium.TimeoutException: Process timed out after waiting for 20000 ms.
+Build info: version: '4.13.0', revision: 'ba948ece5b*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: driver.version: unknown
+at org.openqa.selenium.os.OsProcess.waitFor(OsProcess.java:183)
+at org.openqa.selenium.os.CommandLine.waitFor(CommandLine.java:117)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.lambda$execute$2(DriverCommandExecutor.java:148)
+at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1812)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+at java.base/java.lang.Thread.run(Thread.java:1575)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.WebDriverException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- producttest.TestCase_23 -->
+      <class name="producttest.TestCase_01">
+        <test-method is-config="true" signature="browserSetup()[pri:0, instance:producttest.TestCase_01@36b4fe2a]" started-at="2025-05-05T15:14:44 IST" name="browserSetup" finished-at="2025-05-05T15:15:01 IST" duration-ms="16911" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method signature="RegisterUser()[pri:0, instance:producttest.TestCase_01@36b4fe2a]" started-at="2025-05-05T15:15:01 IST" name="RegisterUser" finished-at="2025-05-05T15:15:01 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[user is registered]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- RegisterUser -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:producttest.TestCase_01@36b4fe2a]" started-at="2025-05-05T15:15:01 IST" name="closebrowser" finished-at="2025-05-05T15:15:02 IST" duration-ms="197" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Closebrowser Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- producttest.TestCase_01 -->
+      <class name="producttest.TestCase_22">
+        <test-method is-config="true" signature="browserSetup()[pri:0, instance:producttest.TestCase_22@ba54932]" started-at="2025-05-05T15:18:42 IST" name="browserSetup" finished-at="2025-05-05T15:18:47 IST" duration-ms="5048" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method signature="AddtocartfromRecommendeditems()[pri:0, instance:producttest.TestCase_22@ba54932]" started-at="2025-05-05T15:18:47 IST" name="AddtocartfromRecommendeditems" finished-at="2025-05-05T15:18:53 IST" duration-ms="5380" status="FAIL">
+          <exception class="org.openqa.selenium.ElementClickInterceptedException">
+            <message>
+              <![CDATA[element click intercepted: Element <a href="/view_cart">...</a> is not clickable at point (734, 10). Other element would receive the click: <div id="cartModal" class="modal show">...</div>
+  (Session info: chrome=136.0.7103.48)
+Build info: version: '4.13.0', revision: 'ba948ece5b*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [abca4ab26df2acb24c21dd2986be0963, clickElement {id=f.6254E4A060549CBE6D6251B1F96F87DD.d.6E1F60487E57B3E38ED50CC2222E51F7.e.53}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.48, chrome: {chromedriverVersion: 136.0.7103.49 (031848bc6ad0..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63709}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63709/devtoo..., se:cdpVersion: 136.0.7103.48, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (abca4ab26df2acb24c21dd2986be0963)] -> xpath: //a[text()=' Cart']]
+Session ID: abca4ab26df2acb24c21dd2986be0963]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a href="/view_cart">...</a> is not clickable at point (734, 10). Other element would receive the click: <div id="cartModal" class="modal show">...</div>
+  (Session info: chrome=136.0.7103.48)
+Build info: version: '4.13.0', revision: 'ba948ece5b*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [abca4ab26df2acb24c21dd2986be0963, clickElement {id=f.6254E4A060549CBE6D6251B1F96F87DD.d.6E1F60487E57B3E38ED50CC2222E51F7.e.53}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.48, chrome: {chromedriverVersion: 136.0.7103.49 (031848bc6ad0..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63709}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63709/devtoo..., se:cdpVersion: 136.0.7103.48, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (abca4ab26df2acb24c21dd2986be0963)] -> xpath: //a[text()=' Cart']]
+Session ID: abca4ab26df2acb24c21dd2986be0963
+at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:485)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:196)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:171)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:602)
+at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:224)
+at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:77)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+at jdk.proxy2/jdk.proxy2.$Proxy16.click(Unknown Source)
+at producttest.TestCase_22.AddtocartfromRecommendeditems(TestCase_22.java:53)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+at org.testng.TestRunner.privateRun(TestRunner.java:741)
+at org.testng.TestRunner.run(TestRunner.java:616)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.ElementClickInterceptedException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddtocartfromRecommendeditems -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:producttest.TestCase_22@ba54932]" started-at="2025-05-05T15:18:53 IST" name="closebrowser" finished-at="2025-05-05T15:18:53 IST" duration-ms="289" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Closebrowser Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- producttest.TestCase_22 -->
+      <class name="producttest.TestCase_09">
+        <test-method is-config="true" signature="browserSetup()[pri:0, instance:producttest.TestCase_09@157853da]" started-at="2025-05-05T15:19:13 IST" name="browserSetup" finished-at="2025-05-05T15:19:17 IST" duration-ms="4427" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method signature="searchproduct()[pri:0, instance:producttest.TestCase_09@157853da]" started-at="2025-05-05T15:19:17 IST" name="searchproduct" finished-at="2025-05-05T15:19:17 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[product is searched]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- searchproduct -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:producttest.TestCase_09@157853da]" started-at="2025-05-05T15:19:17 IST" name="closebrowser" finished-at="2025-05-05T15:19:18 IST" duration-ms="226" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Closebrowser Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- producttest.TestCase_09 -->
+      <class name="producttest.TestCase_08">
+        <test-method is-config="true" signature="browserSetup()[pri:0, instance:producttest.TestCase_08@71c3b41]" started-at="2025-05-05T15:19:18 IST" name="browserSetup" finished-at="2025-05-05T15:19:20 IST" duration-ms="2649" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method signature="allproductdetails()[pri:0, instance:producttest.TestCase_08@71c3b41]" started-at="2025-05-05T15:19:20 IST" name="allproductdetails" finished-at="2025-05-05T15:19:20 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[contact form is created]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- allproductdetails -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:producttest.TestCase_08@71c3b41]" started-at="2025-05-05T15:19:20 IST" name="closebrowser" finished-at="2025-05-05T15:19:21 IST" duration-ms="227" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Closebrowser Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- producttest.TestCase_08 -->
+      <class name="producttest.Testcase_10">
+        <test-method is-config="true" signature="browserSetup()[pri:0, instance:producttest.Testcase_10@3943a2be]" started-at="2025-05-05T15:18:57 IST" name="browserSetup" finished-at="2025-05-05T15:19:01 IST" duration-ms="3993" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method signature="verifysubscriptioninhome()[pri:0, instance:producttest.Testcase_10@3943a2be]" started-at="2025-05-05T15:19:01 IST" name="verifysubscriptioninhome" finished-at="2025-05-05T15:19:08 IST" duration-ms="6490" status="FAIL">
+          <exception class="java.lang.NullPointerException">
+            <message>
+              <![CDATA[Cannot invoke "org.openqa.selenium.WebElement.click()" because the return value of "pagerepository_A.HomePage.getsubscribe()" is null]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebElement.click()" because the return value of "pagerepository_A.HomePage.getsubscribe()" is null
+at producttest.Testcase_10.verifysubscriptioninhome(Testcase_10.java:32)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+at org.testng.TestRunner.privateRun(TestRunner.java:741)
+at org.testng.TestRunner.run(TestRunner.java:616)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifysubscriptioninhome -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:producttest.Testcase_10@3943a2be]" started-at="2025-05-05T15:19:08 IST" name="closebrowser" finished-at="2025-05-05T15:19:08 IST" duration-ms="188" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Closebrowser Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- producttest.Testcase_10 -->
+      <class name="producttest.TestCase_21">
+        <test-method is-config="true" signature="browserSetup()[pri:0, instance:producttest.TestCase_21@11c9af63]" started-at="2025-05-05T15:14:17 IST" name="browserSetup" finished-at="2025-05-05T15:14:33 IST" duration-ms="16377" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method signature="Addreviewonproduct()[pri:0, instance:producttest.TestCase_21@11c9af63]" started-at="2025-05-05T15:14:33 IST" name="Addreviewonproduct" finished-at="2025-05-05T15:14:33 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case 21: Add review on product]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Addreviewonproduct -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:producttest.TestCase_21@11c9af63]" started-at="2025-05-05T15:14:33 IST" name="closebrowser" finished-at="2025-05-05T15:14:34 IST" duration-ms="204" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Closebrowser Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- producttest.TestCase_21 -->
+      <class name="producttest.TestCase_20">
+        <test-method is-config="true" signature="browserSetup()[pri:0, instance:producttest.TestCase_20@757acd7b]" started-at="2025-05-05T15:14:34 IST" name="browserSetup" finished-at="2025-05-05T15:14:44 IST" duration-ms="10653" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method signature="SearchProductsandVerifyCartAfterLogin()[pri:0, instance:producttest.TestCase_20@757acd7b]" started-at="2025-05-05T15:14:44 IST" name="SearchProductsandVerifyCartAfterLogin" finished-at="2025-05-05T15:14:44 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[viewcart]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SearchProductsandVerifyCartAfterLogin -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:producttest.TestCase_20@757acd7b]" started-at="2025-05-05T15:14:44 IST" name="closebrowser" finished-at="2025-05-05T15:14:44 IST" duration-ms="185" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Closebrowser Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- producttest.TestCase_20 -->
+      <class name="producttest.TestCase_18">
+        <test-method is-config="true" signature="browserSetup()[pri:0, instance:producttest.TestCase_18@1018bde2]" started-at="2025-05-05T15:10:16 IST" name="browserSetup" finished-at="2025-05-05T15:10:45 IST" duration-ms="29506" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method signature="ViewCategoryProducts()[pri:0, instance:producttest.TestCase_18@1018bde2]" started-at="2025-05-05T15:10:45 IST" name="ViewCategoryProducts" finished-at="2025-05-05T15:10:45 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[verify products]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ViewCategoryProducts -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:producttest.TestCase_18@1018bde2]" started-at="2025-05-05T15:10:45 IST" name="closebrowser" finished-at="2025-05-05T15:10:45 IST" duration-ms="160" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Closebrowser Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- producttest.TestCase_18 -->
+      <class name="producttest.TestCase_17">
+        <test-method is-config="true" signature="browserSetup()[pri:0, instance:producttest.TestCase_17@65b3f4a4]" started-at="2025-05-05T15:10:45 IST" name="browserSetup" finished-at="2025-05-05T15:11:16 IST" duration-ms="30395" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method signature="RemoveProductsFromCart()[pri:0, instance:producttest.TestCase_17@65b3f4a4]" started-at="2025-05-05T15:11:16 IST" name="RemoveProductsFromCart" finished-at="2025-05-05T15:11:16 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[remove product]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- RemoveProductsFromCart -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:producttest.TestCase_17@65b3f4a4]" started-at="2025-05-05T15:11:16 IST" name="closebrowser" finished-at="2025-05-05T15:11:16 IST" duration-ms="196" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Closebrowser Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- producttest.TestCase_17 -->
+      <class name="producttest.TestCase_16">
+        <test-method is-config="true" signature="browserSetup()[pri:0, instance:producttest.TestCase_16@37f1104d]" started-at="2025-05-05T15:07:31 IST" name="browserSetup" finished-at="2025-05-05T15:08:14 IST" duration-ms="43210" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method signature="LoginbeforeCheckout()[pri:0, instance:producttest.TestCase_16@37f1104d]" started-at="2025-05-05T15:08:14 IST" name="LoginbeforeCheckout" finished-at="2025-05-05T15:08:14 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[checkout]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- LoginbeforeCheckout -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:producttest.TestCase_16@37f1104d]" started-at="2025-05-05T15:08:14 IST" name="closebrowser" finished-at="2025-05-05T15:08:14 IST" duration-ms="189" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Closebrowser Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- producttest.TestCase_16 -->
+      <class name="producttest.TestCase_15">
+        <test-method is-config="true" signature="browserSetup()[pri:0, instance:producttest.TestCase_15@55740540]" started-at="2025-05-05T15:08:14 IST" name="browserSetup" finished-at="2025-05-05T15:08:34 IST" duration-ms="19908" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method signature="RegisterbeforeCheckout()[pri:0, instance:producttest.TestCase_15@55740540]" started-at="2025-05-05T15:08:34 IST" name="RegisterbeforeCheckout" finished-at="2025-05-05T15:08:34 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[checkout]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- RegisterbeforeCheckout -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:producttest.TestCase_15@55740540]" started-at="2025-05-05T15:08:34 IST" name="closebrowser" finished-at="2025-05-05T15:08:34 IST" duration-ms="302" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Closebrowser Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- producttest.TestCase_15 -->
+      <class name="producttest.TestCase_14">
+        <test-method is-config="true" signature="browserSetup()[pri:0, instance:producttest.TestCase_14@3571b748]" started-at="2025-05-05T15:04:52 IST" name="browserSetup" finished-at="2025-05-05T15:05:21 IST" duration-ms="29002" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method signature="placrOrderRegisterwhileCheckout()[pri:0, instance:producttest.TestCase_14@3571b748]" started-at="2025-05-05T15:05:22 IST" name="placrOrderRegisterwhileCheckout" finished-at="2025-05-05T15:07:26 IST" duration-ms="124982" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchWindowException">
+            <message>
+              <![CDATA[no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=136.0.7103.48)
+Build info: version: '4.13.0', revision: 'ba948ece5b*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b915ae35ab44a6d4766dcf8a67ed31cc, findElement {using=xpath, value=(//button[@type="submit"])[2]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.48, chrome: {chromedriverVersion: 136.0.7103.49 (031848bc6ad0..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53946}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53946/devtoo..., se:cdpVersion: 136.0.7103.48, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b915ae35ab44a6d4766dcf8a67ed31cc]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=136.0.7103.48)
+Build info: version: '4.13.0', revision: 'ba948ece5b*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b915ae35ab44a6d4766dcf8a67ed31cc, findElement {using=xpath, value=(//button[@type="submit"])[2]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.48, chrome: {chromedriverVersion: 136.0.7103.49 (031848bc6ad0..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53946}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53946/devtoo..., se:cdpVersion: 136.0.7103.48, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b915ae35ab44a6d4766dcf8a67ed31cc
+at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:485)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:196)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:171)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:602)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:359)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:353)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+at jdk.proxy2/jdk.proxy2.$Proxy16.isDisplayed(Unknown Source)
+at producttest.TestCase_14.placrOrderRegisterwhileCheckout(TestCase_14.java:74)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+at org.testng.TestRunner.privateRun(TestRunner.java:741)
+at org.testng.TestRunner.run(TestRunner.java:616)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchWindowException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- placrOrderRegisterwhileCheckout -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:producttest.TestCase_14@3571b748]" started-at="2025-05-05T15:07:27 IST" name="closebrowser" finished-at="2025-05-05T15:07:27 IST" duration-ms="231" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Closebrowser Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- producttest.TestCase_14 -->
+      <class name="producttest.TestCase_13">
+        <test-method is-config="true" signature="browserSetup()[pri:0, instance:producttest.TestCase_13@740773a3]" started-at="2025-05-05T15:07:27 IST" name="browserSetup" finished-at="2025-05-05T15:07:31 IST" duration-ms="3797" status="FAIL">
+          <exception class="org.openqa.selenium.WebDriverException">
+            <message>
+              <![CDATA[target frame detached
+  (failed to check if window was closed: disconnected: Unable to receive message from renderer)
+  (Session info: chrome=136.0.7103.48)
+Build info: version: '4.13.0', revision: 'ba948ece5b*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c072116e0ce423b1538939bb12cfab4d, get {url=http://automationexercise.com}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.48, chrome: {chromedriverVersion: 136.0.7103.49 (031848bc6ad0..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54099}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54099/devtoo..., se:cdpVersion: 136.0.7103.48, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c072116e0ce423b1538939bb12cfab4d]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.WebDriverException: target frame detached
+  (failed to check if window was closed: disconnected: Unable to receive message from renderer)
+  (Session info: chrome=136.0.7103.48)
+Build info: version: '4.13.0', revision: 'ba948ece5b*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c072116e0ce423b1538939bb12cfab4d, get {url=http://automationexercise.com}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.48, chrome: {chromedriverVersion: 136.0.7103.49 (031848bc6ad0..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54099}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54099/devtoo..., se:cdpVersion: 136.0.7103.48, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c072116e0ce423b1538939bb12cfab4d
+at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:485)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:196)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:171)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:602)
+at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:304)
+at genericrepository.BasicConfiguration.browserSetup(BasicConfiguration.java:58)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333)
+at org.testng.internal.invokers.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:188)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+at org.testng.TestRunner.privateRun(TestRunner.java:741)
+at org.testng.TestRunner.run(TestRunner.java:616)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.WebDriverException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method signature="productQtyInCart()[pri:0, instance:producttest.TestCase_13@740773a3]" started-at="2025-05-05T15:07:31 IST" name="productQtyInCart" finished-at="2025-05-05T15:07:31 IST" duration-ms="0" status="SKIP">
+          <exception class="org.openqa.selenium.WebDriverException">
+            <message>
+              <![CDATA[target frame detached
+  (failed to check if window was closed: disconnected: Unable to receive message from renderer)
+  (Session info: chrome=136.0.7103.48)
+Build info: version: '4.13.0', revision: 'ba948ece5b*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c072116e0ce423b1538939bb12cfab4d, get {url=http://automationexercise.com}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.48, chrome: {chromedriverVersion: 136.0.7103.49 (031848bc6ad0..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54099}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54099/devtoo..., se:cdpVersion: 136.0.7103.48, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c072116e0ce423b1538939bb12cfab4d]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.WebDriverException: target frame detached
+  (failed to check if window was closed: disconnected: Unable to receive message from renderer)
+  (Session info: chrome=136.0.7103.48)
+Build info: version: '4.13.0', revision: 'ba948ece5b*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c072116e0ce423b1538939bb12cfab4d, get {url=http://automationexercise.com}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.48, chrome: {chromedriverVersion: 136.0.7103.49 (031848bc6ad0..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54099}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54099/devtoo..., se:cdpVersion: 136.0.7103.48, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c072116e0ce423b1538939bb12cfab4d
+at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:485)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:196)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:171)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:602)
+at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:304)
+at genericrepository.BasicConfiguration.browserSetup(BasicConfiguration.java:58)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333)
+at org.testng.internal.invokers.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:188)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+at org.testng.TestRunner.privateRun(TestRunner.java:741)
+at org.testng.TestRunner.run(TestRunner.java:616)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.WebDriverException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productQtyInCart -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:producttest.TestCase_13@740773a3]" started-at="2025-05-05T15:07:31 IST" name="closebrowser" finished-at="2025-05-05T15:07:31 IST" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- producttest.TestCase_13 -->
+      <class name="producttest.TestCase_12">
+        <test-method is-config="true" signature="browserSetup()[pri:0, instance:producttest.TestCase_12@60015ef5]" started-at="2025-05-05T15:08:34 IST" name="browserSetup" finished-at="2025-05-05T15:09:23 IST" duration-ms="48366" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method signature="addProductInCart()[pri:0, instance:producttest.TestCase_12@60015ef5]" started-at="2025-05-05T15:09:23 IST" name="addProductInCart" finished-at="2025-05-05T15:09:54 IST" duration-ms="31509" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addProductInCart -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:producttest.TestCase_12@60015ef5]" started-at="2025-05-05T15:09:54 IST" name="closebrowser" finished-at="2025-05-05T15:09:54 IST" duration-ms="262" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Closebrowser Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- producttest.TestCase_12 -->
+      <class name="producttest.TestCase_11">
+        <test-method is-config="true" signature="browserSetup()[pri:0, instance:producttest.TestCase_11@2f54a33d]" started-at="2025-05-05T15:09:54 IST" name="browserSetup" finished-at="2025-05-05T15:10:09 IST" duration-ms="14324" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method signature="subscriptionincartpage()[pri:0, instance:producttest.TestCase_11@2f54a33d]" started-at="2025-05-05T15:10:09 IST" name="subscriptionincartpage" finished-at="2025-05-05T15:10:16 IST" duration-ms="6831" status="FAIL">
+          <exception class="java.lang.NullPointerException">
+            <message>
+              <![CDATA[Cannot invoke "org.openqa.selenium.WebElement.click()" because the return value of "pagerepository_A.HomePage.getsubscribe()" is null]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebElement.click()" because the return value of "pagerepository_A.HomePage.getsubscribe()" is null
+at producttest.TestCase_11.subscriptionincartpage(TestCase_11.java:28)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+at org.testng.TestRunner.privateRun(TestRunner.java:741)
+at org.testng.TestRunner.run(TestRunner.java:616)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- subscriptionincartpage -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:producttest.TestCase_11@2f54a33d]" started-at="2025-05-05T15:10:16 IST" name="closebrowser" finished-at="2025-05-05T15:10:16 IST" duration-ms="243" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Closebrowser Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- producttest.TestCase_11 -->
+      <class name="producttest.TestCase_19">
+        <test-method is-config="true" signature="browserSetup()[pri:0, instance:producttest.TestCase_19@f2ff811]" started-at="2025-05-05T15:11:16 IST" name="browserSetup" finished-at="2025-05-05T15:11:33 IST" duration-ms="16794" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method signature="ViewCartBrandProducts()[pri:0, instance:producttest.TestCase_19@f2ff811]" started-at="2025-05-05T15:11:33 IST" name="ViewCartBrandProducts" finished-at="2025-05-05T15:11:33 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[viewcart]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ViewCartBrandProducts -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:producttest.TestCase_19@f2ff811]" started-at="2025-05-05T15:11:33 IST" name="closebrowser" finished-at="2025-05-05T15:11:33 IST" duration-ms="206" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Closebrowser Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- producttest.TestCase_19 -->
+    </test> <!-- Test -->
+  </suite> <!-- regression_cycle -->
+</testng-results>

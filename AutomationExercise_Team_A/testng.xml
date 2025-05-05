@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="regression_cycle">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="producttest.TestCase_14"/>
+      <class name="producttest.TestCase_13"/>
+      <class name="producttest.TestCase_16"/>
+      <class name="producttest.TestCase_15"/>
+      <class name="producttest.TestCase_12"/>
+      <class name="producttest.TestCase_11"/>
+      <class name="producttest.TestCase_18"/>
+      <class name="producttest.TestCase_17"/>
+      <class name="producttest.TestCase_19"/>
+      <class name="producttest.TestCase_03"/>
+      <class name="producttest.TestCase_25"/>
+      <class name="producttest.TestCase_02"/>
+      <class name="producttest.TestCase_24"/>
+      <class name="producttest.TestCase_05"/>
+      <class name="producttest.TestCase_04"/>
+      <class name="producttest.TestCase_26"/>
+      <class name="producttest.TestCase_21"/>
+      <class name="producttest.TestCase_20"/>
+      <class name="producttest.TestCase_01"/>
+      <class name="producttest.TestCase_23"/>
+      <class name="producttest.TestCase_22"/>
+      <class name="producttest.TestCase_07"/>
+      <class name="producttest.Testcase_10"/>
+      <class name="producttest.TestCase_06"/>
+      <class name="producttest.TestCase_09"/>
+      <class name="producttest.TestCase_08"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- regression_cycle -->
